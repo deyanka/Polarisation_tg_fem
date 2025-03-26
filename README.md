@@ -1,6 +1,5 @@
 # Feminism Polarization Analysis in Telegram
 
-![Telegram Logo](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)
 
 ## 📌 Project Overview
 This research analyzes affective and structural polarization between feminist and anti-feminist communities on Telegram during 2024-2025. Using NLP and social network analysis, I examine:
